@@ -1,8 +1,8 @@
 ---
 title: "maxchiswick.com"
 permalink: /
-sidebar:
-  nav: "nav"
+# sidebar:
+#   nav: "nav"
 toc: true
 toc_label: "Site Categories"
 toc_sticky: true
