@@ -10,6 +10,8 @@ layout: single
 ---
 Hello! This is an index page for a selection of my websites, active and inactive and various points in between. The most important ones are starred restaurant menu style.  
 
+![Me in front of a Cynthia Talmadge artwork in the 56 Henry booth](../assets/me.jpeg)
+
 # Poker/AI/Math 
 
 *[Poker Camp](https://pokercamp.org): Poker Camp material that combines poker strategy and math, probability, decision making, and other related skills. Under construction. Also cohort learning (virtual and hopefully also IRL) to go through the material. 
