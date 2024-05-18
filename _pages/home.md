@@ -34,7 +34,7 @@ Hello! This is an index page for a selection of my websites, active and inactive
 
 [Hotel Eggs](https://hoteleggs.com): I like eating eggs. Unfortunately most hotels do not make very good ones (or maybe I'm staying at the wrong hotels). Site in progress. [Instagram here](https://instagram.com/hoteleggs).
 
-[Rotisserie Ride](https://rotisserieride.com): In late 2019 I came up with an idea to ride a bicycle from LA to NYC via Chicago consuming rotisserie (or other supermarket) chicken each day. I hope that this will happen in 2025 or 2026. Site currently not active. Want to sponsor a chicken or join for a segment? [mailto:max.chiswick@gmail.com](Get in touch).
+[Rotisserie Ride](https://rotisserieride.com): In late 2019 I came up with an idea to ride a bicycle from LA to NYC via Chicago consuming rotisserie (or other supermarket) chicken each day. I hope that this will happen in 2025 or 2026. Site currently not active. Want to sponsor a chicken or join for a segment? [Get in touch](mailto:max.chiswick@gmail.com).
 
 **Art** 
 
@@ -61,10 +61,10 @@ whataretheoddspoker.com: I thought this was a clever name, others say it's medio
 Want to chat? Collaborate? Virtually cowork? Drink tea? 
 Get in touch. 
 
-[mailto:max.chiswick@gmail.com](Email) 
+[Email](mailto:max.chiswick@gmail.com) 
 
-[https://www.linkedin.com/in/maxchiswick/](LinkedIn)
+[LinkedIn](https://www.linkedin.com/in/maxchiswick/)
 
-[https://www.instagram.com/chisness/](Instagram)
+[Instagram](https://www.instagram.com/chisness/)
 
-[https://x.com/chisness](X)
+[X](https://x.com/chisness)
