@@ -38,7 +38,7 @@ Hello! This is an index page for a selection of my websites, active and inactive
 
 # Art
 
-[Carrot Museum](https://carrotmuseum.org): 
+[Carrot Museum](https://carrotmuseum.org): Carrots are my favorite food and so I've collected some carrot-related artworks. They will be shown here alongside non-carrot pieces as well. 
 
 # Domain Owned, Nothing There
 
