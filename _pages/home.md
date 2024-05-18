@@ -22,7 +22,7 @@ Hello! This is an index page for a selection of my websites, active and inactive
 
 # Personal Blog
 
-[Chisness.com](https://chisness.com): Operating since 2003, some years drastically more active than others. Converting to Substack now. Will be a potpourri of trip reports, weird food optimization, and AI stuff. 
+[Chisness.com](https://chisness.com): Operating since at least 2002, some years drastically more active than others. Converting to Substack now. Will be a potpourri of trip reports, weird food optimization, AI stuff, etc. 
 
 # Travel
 
