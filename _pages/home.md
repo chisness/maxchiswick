@@ -26,9 +26,9 @@ Hello! This is an index page for a selection of my websites, active and inactive
 
 # Travel
 
-*[40k.earth](https://40k.earth): Build your own travel map and compare with friends. Goal analogy is LinkedIn : Professional Life :: 40k : Travel Life. [Send feedback!](mailto:max@40k.earth) 
+*[40k.earth](https://40k.earth): Build your own travel map and compare with friends. My map is [here](https://40k.earth/chisness). Goal analogy is LinkedIn : Professional Life :: 40k : Travel Life. [Send feedback!](mailto:max@40k.earth) 
 
-[Carrot Safari](https://carrotsafari.com): Travel index site, but not yet active. Forward to my 40k.earth map for now. 
+[Carrot Safari](https://carrotsafari.com): Travel index site, but not yet active. Forwards to my 40k.earth map for now. 
 
 [Chabad World Tour](https://chabadworldtour.com): I like visiting Chabad houses, especially when traveling. This is a map of the ones I've been to so far. 
 
