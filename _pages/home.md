@@ -8,17 +8,17 @@ toc_label: "Site Categories"
 toc_sticky: true
 layout: single
 ---
-Hello! This is an index page for a selection of my websites, active and inactive and various points in between. 
+Hello! This is an index page for a selection of my websites, active and inactive and various points in between. The most important ones are starred (like on a restaurant menu). 
 
 # Poker/AI/Math 
 
-[Poker Camp](https://pokercamp.org): Poker Camp material that combines poker strategy and math, probability, decision making, and other related skills. Under construction. Also cohort learning (virtual and hopefully also IRL) to go through the material.  
+*[Poker Camp](https://pokercamp.org): Poker Camp material that combines poker strategy and math, probability, decision making, and other related skills. Under construction. Also cohort learning (virtual and hopefully also IRL) to go through the material. 
 
-[AI Poker Tutorial](https://aipokertutorial.com): AI Poker technical material, under construction.
+*[AI Poker Tutorial](https://aipokertutorial.com): AI Poker technical material, under construction.
 
-[Poker AI Retreat (PAIR)](https://pokerairetreat.com): A retreat (virtual and hopefully also IRL) to go through the AI Poker material.
+*[Poker AI Retreat (PAIR)](https://pokerairetreat.com): A retreat (virtual and hopefully also IRL) to go through the AI Poker material.
 
-[Expected Value Org](https://expectedvalue.org): Expected value is important and somehow expectedvalue.org was available.  
+*[Expected Value Org](https://expectedvalue.org): Expected value is important and somehow expectedvalue.org was available.  
 
 # Personal Blog
 
@@ -26,7 +26,7 @@ Hello! This is an index page for a selection of my websites, active and inactive
 
 # Travel
 
-[40k.earth](https://40k.earth): Build your own travel map and compare with friends. Goal analogy is LinkedIn : Professional Life :: 40k : Travel Life. [Send feedback!](mailto:max@40k.earth) 
+*[40k.earth](https://40k.earth): Build your own travel map and compare with friends. Goal analogy is LinkedIn : Professional Life :: 40k : Travel Life. [Send feedback!](mailto:max@40k.earth) 
 
 [Carrot Safari](https://carrotsafari.com): Travel index site, but not yet active. 
 
