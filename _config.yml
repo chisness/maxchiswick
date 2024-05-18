@@ -59,29 +59,30 @@ plugins:
 
 author:
   name   : "Max Chiswick"
-  avatar : "../assets/me.jpeg"
-  bio    : "I played high-volume online poker professionally until 2013, including playing 3 million hands in 2009. 
-  Then I studied AI poker for my master's degree, with a thesis on abstracting large games to small games to make them solvable. 
-  The purpose of this tutorial is to share what I learned from those two experiences."
+  avatar : "../assets/me.png"
+  bio    : "Want to chat? Collaborate? Cowork? Drink tea? Get in touch."
   links:
-    - label: "Personal website"
+    - label: "Email"
       icon: "fas fa-fw fa-link"
-      url: "https://www.maxchiswick.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/chisness"
+      url: "mailto:max.chiswick@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/chisness/aipokertutorial"
+      url: "https://github.com/chisness/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/maxchiswick/"
+    - label: "X"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/chisness"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/chisness"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/chisness"
+      url: "https://x.com/chisness"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chisness/"

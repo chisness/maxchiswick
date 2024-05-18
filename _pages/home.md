@@ -10,8 +10,6 @@ layout: single
 ---
 Hello! This is an index page for a selection of my websites, active and inactive and various points in between. The most important ones are starred restaurant menu style.  
 
-![Me in front of a Cynthia Talmadge artwork in the 56 Henry booth](../assets/me.jpeg)
-
 # Poker/AI/Math 
 
 *[Poker Camp](https://pokercamp.org): Poker Camp material that combines poker strategy and math, probability, decision making, and other related skills. Under construction. Also cohort learning (virtual and hopefully also IRL) to go through the material. 
@@ -61,16 +59,3 @@ doublemitzvah.org: If I ever start a double entendre charity site
 themaxvalue.com: If I ever write about value optimization
 
 whataretheoddspoker.com: I thought this was a clever name, others say it's mediocre and too long
-
-# Contacts
-
-Want to chat? Collaborate? Cowork? Drink tea? 
-Get in touch. 
-
-- [Email](mailto:max.chiswick@gmail.com) 
-
-- [LinkedIn](https://www.linkedin.com/in/maxchiswick/)
-
-- [Instagram](https://www.instagram.com/chisness/)
-
-- [X](https://x.com/chisness)
