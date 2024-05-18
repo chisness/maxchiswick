@@ -11,6 +11,7 @@ layout: single
 Hello! This is an index page for a selection of my websites, active and inactive and various points in between. 
 
 **Poker/AI/Math** 
+
 [Poker Camp](https://pokercamp.org): Poker Camp material that combines poker strategy and math, probability, decision making, and other related skills. Under construction. Also cohort learning (virtual and hopefully also IRL) to go through the material.  
 
 [AI Poker Tutorial](https://aipokertutorial.com): AI Poker technical material, under construction.
@@ -20,9 +21,11 @@ Hello! This is an index page for a selection of my websites, active and inactive
 [Expected Value Org](https://expectedvalue.org): Expected value is important and somehow expectedvalue.org was available.  
 
 **Personal Blog** 
+
 [Chisness.com](https://chisness.com): Operating since 2003, some years drastically more active than others. Converting to Substack now. Will be a potpourri of trip reports, weird food optimization, and AI stuff. 
 
 **Travel**
+
 [40k.earth](https://40k.earth): Build your own travel map and compare with friends. Goal analogy is LinkedIn : Professional Life :: 40k : Travel Life. [mailto:max@40k.earth](Send feedback!) 
 
 [Carrot Safari](https://carrotsafari.com): Travel index site, but not yet active. 
@@ -34,9 +37,11 @@ Hello! This is an index page for a selection of my websites, active and inactive
 [Rotisserie Ride](https://rotisserieride.com): In late 2019 I came up with an idea to ride a bicycle from LA to NYC via Chicago consuming rotisserie (or other supermarket) chicken each day. I hope that this will happen in 2025 or 2026. Site currently not active. Want to sponsor a chicken or join for a segment? [mailto:max.chiswick@gmail.com](Get in touch).
 
 **Art** 
+
 [Carrot Museum](https://carrotmuseum.org): 
 
 **Domain owned, but nothing there. [mailto:max.chiswick@gmail.com](Send ideas!)**
+
 datacarotene.com: If I ever operate a data science consultancy
 
 etrogexhibitions.com: If I ever own an art gallery
@@ -52,6 +57,7 @@ themaxvalue.com: Value optimization
 whataretheoddspoker.com: I thought this was a clever name, others say it's mediocre and too long
 
 **Contacts** 
+
 Want to chat? Collaborate? Virtually cowork? Drink tea? 
 Get in touch. 
 
