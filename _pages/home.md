@@ -63,10 +63,10 @@ whataretheoddspoker.com: I thought this was a clever name, others say it's medio
 Want to chat? Collaborate? Cowork? Drink tea? 
 Get in touch. 
 
-[Email](mailto:max.chiswick@gmail.com) 
+- [Email](mailto:max.chiswick@gmail.com) 
 
-[LinkedIn](https://www.linkedin.com/in/maxchiswick/)
+- [LinkedIn](https://www.linkedin.com/in/maxchiswick/)
 
-[Instagram](https://www.instagram.com/chisness/)
+- [Instagram](https://www.instagram.com/chisness/)
 
-[X](https://x.com/chisness)
+- [X](https://x.com/chisness)
