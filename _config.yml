@@ -63,7 +63,7 @@ author:
   bio    : "Want to chat? Collaborate? Cowork? Drink tea? Get in touch."
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-email"
       url: "mailto:max.chiswick@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
