@@ -26,7 +26,7 @@ Hello! This is an index page for a selection of my websites, active and inactive
 
 # Travel
 
-[40k.earth](https://40k.earth): Build your own travel map and compare with friends. Goal analogy is LinkedIn : Professional Life :: 40k : Travel Life. [mailto:max@40k.earth](Send feedback!) 
+[40k.earth](https://40k.earth): Build your own travel map and compare with friends. Goal analogy is LinkedIn : Professional Life :: 40k : Travel Life. [Send feedback!](mailto:max@40k.earth) 
 
 [Carrot Safari](https://carrotsafari.com): Travel index site, but not yet active. 
 
