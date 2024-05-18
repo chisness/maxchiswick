@@ -52,11 +52,11 @@ etrogtennisclub.com: If I ever own a tennis club
 
 wearconsistentwithageanduse.com: If I ever own a vintage furniture store
 
-doublemitzvah.org: Double entendre charity site
-
 super-sick.net and thesickest.net: If I ever start a site that shows a super sick or one of the sickest things each day (affiliate links)
 
-themaxvalue.com: Value optimization
+doublemitzvah.org: If I ever start a double entendre charity site
+
+themaxvalue.com: If I ever write about value optimization
 
 whataretheoddspoker.com: I thought this was a clever name, others say it's mediocre and too long
 
