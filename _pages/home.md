@@ -4,7 +4,7 @@ permalink: /
 sidebar:
   nav: "nav"
 toc: true
-toc_label: "TOC"
+toc_label: "Site Categories"
 toc_sticky: true
 layout: single
 ---
