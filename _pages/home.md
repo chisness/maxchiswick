@@ -42,7 +42,7 @@ Hello! This is an index page for a selection of my websites, active and inactive
 
 # Domain Owned, but Nothing There
 
-**[Send ideas!](mailto:max.chiswick@gmail.com)**
+[Send ideas!](mailto:max.chiswick@gmail.com)
 
 datacarotene.com: If I ever operate a data science consultancy
 
@@ -60,7 +60,7 @@ whataretheoddspoker.com: I thought this was a clever name, others say it's medio
 
 # Contacts
 
-Want to chat? Collaborate? Virtually cowork? Drink tea? 
+Want to chat? Collaborate? Cowork? Drink tea? 
 Get in touch. 
 
 [Email](mailto:max.chiswick@gmail.com) 
