@@ -5,7 +5,7 @@ sidebar:
   nav: "nav"
 toc: true
 toc_label: "TOC"
-toc_sticky: false
+toc_sticky: true
 layout: single
 ---
 Hello! This is an index page for a selection of my websites, active and inactive and various points in between. 
