@@ -8,7 +8,7 @@ toc_label: "Site Categories"
 toc_sticky: true
 layout: single
 ---
-Hello! This is an index page for a selection of my websites, active and inactive and various points in between. The most important ones are starred (like on a restaurant menu). 
+Hello! This is an index page for a selection of my websites, active and inactive and various points in between. The most important ones are starred restaurant menu style.  
 
 # Poker/AI/Math 
 
