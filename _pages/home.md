@@ -40,7 +40,7 @@ Hello! This is an index page for a selection of my websites, active and inactive
 
 [Carrot Museum](https://carrotmuseum.org): 
 
-# Domain Owned, but Nothing There
+# Domain Owned, Nothing There
 
 [Send ideas!](mailto:max.chiswick@gmail.com)
 
