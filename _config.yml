@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Max Chiswick"
+  name   : "Contact Me"
   avatar : "../assets/me.png"
   bio    : "Want to chat? Collaborate? Cowork? Drink tea? Get in touch."
   links:
