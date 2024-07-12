@@ -20,7 +20,7 @@ Hello! This is an index page for a selection of websites, active and inactive an
 
 # Personal Blog
 
-[Chisness.com](https://chisness.com): Operating since at least 2002, some years drastically more active than others. Converting to Substack now. Will be a potpourri of trip reports, weird food optimization, AI stuff, etc. 
+[Chisness.com](https://chisness.com) (also available at [chis.biz](https://chis.biz)): Operating since at least 2002, some years drastically more active than others. Converting to Substack now. Will be a mix of trip reports, optimization of things like food, AI stuff, etc. 
 
 # Travel
 
