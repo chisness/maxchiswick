@@ -12,7 +12,7 @@ Hello! This is an index page for a selection of websites, active and inactive an
 
 # Poker/AI/Math 
 
-*[Poker Camp](https://poker.camp): Think about probability and decision making and building agents through the lens of poker and other games. 
+*[Poker Camp](https://poker.camp): Probability and decision making and building agents in poker and other games. 
 
 *[AI Poker Tutorial](https://aipokertutorial.com): AI Poker technical material, under construction.
 
