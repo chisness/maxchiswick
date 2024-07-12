@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Contact Me"
   avatar : "../assets/me.png"
-  bio    : "Want to chat? Collaborate? Cowork? Drink tea? Get in touch."
+  # bio    : "Ways to contact me: "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-link"
